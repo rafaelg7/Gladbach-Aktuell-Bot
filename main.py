@@ -14,4 +14,4 @@ async def ping(ctx):
 async def hallo(ctx):
   await ctx.send('Hallo, wie geht es dir. Ich bin der neue Bot auf diesem Server!')
 
-bot.run('MTEyNDMyODA3NDkyNjg4NzAwMg.GDjSdp.4cjQGNHDZutt5CLIkd6DJZbshGLQzivGIURwQ0')
+bot.run('')
